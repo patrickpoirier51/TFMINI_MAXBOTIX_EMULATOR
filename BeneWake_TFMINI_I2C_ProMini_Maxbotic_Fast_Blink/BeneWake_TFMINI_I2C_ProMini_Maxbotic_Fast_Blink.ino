@@ -124,7 +124,6 @@ void setup() {
 void loop() {
   
   readlaser();
-  for (int i=0; i<100; i++){
 
 }
 
